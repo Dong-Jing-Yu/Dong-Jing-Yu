@@ -19,19 +19,13 @@
 [![代码贡献统计](https://github-readme-stats.vercel.app/api?username=Dong-Jing-Yu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![常用语言排行](https://github-readme-stats.vercel.app/api/top-langs/?username=Dong-Jing-Yu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
----
-
-## 📮 联系我
-
-- ✉️ 邮箱：1055411737@qq.com
 
 ---
 
 ## 🎯 近期计划
 
-- 正在学习 **Kubernetes容器编排**
-- 计划开发 **AI辅助编程工具**
-- 持续优化 **开源项目文档**
+- 正在学习 **神经网络**
+- 计划开发 **无**
 
 ---
 
