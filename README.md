@@ -1,6 +1,6 @@
 # 你好 👋 我是东经雨
 
-**`全栈开发者 | 技术创作者 | 开源爱好者`**
+**`开源爱好者`**
 
 [![个人博客](https://img.shields.io/badge/-个人博客-%230077B5?style=flat&logo=hexo&logoColor=white)](https://Dong-Jing-Yu.github.io)
 ---
