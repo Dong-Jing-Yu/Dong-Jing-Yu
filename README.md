@@ -25,8 +25,8 @@
 ## 🎯 近期计划
 
 - 正在学习 **神经网络**
-- 计划开发 **无**
+- 等待合适的机会拿下[Dong-Jing-Yu.top](Dong-Jing-Yu.top)域名
 
 ---
 
-![访问统计](https://komarev.com/ghpvc/?username=Dong-Jing-Yu&color=blue&style=for-the-badge)
+![:name](https://count.getloli.com/@Dong-Jing-Yu?name=Dong-Jing-Yu&theme=random&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
